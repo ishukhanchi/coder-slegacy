@@ -1,6 +1,11 @@
 # coder-slegacy
 It is an online coding event allowing participants to code in C,C++,JAVA.
-    
+
+## Steps to install xampp
+* [Windows](https://www.wikihow.com/Install-XAMPP-for-Windows)
+* [Linux](https://www.wikihow.com/Install-XAMPP-on-Linux)
+
+## Guidelines for the event
 * Firstly,user needs to **sign in** by adding the necessary and required details in the fields provided.<br>
 * Then,the user will reach on level 1 where he/she has to begin by writing the code for the question there.<br>
 * Language option must be chose among C, C++ and JAVA by the buttons provided beside the editor.<br>
