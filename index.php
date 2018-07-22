@@ -30,7 +30,7 @@ button:hover {
     opacity: 0.8;
 }
 
-/* Extra styles for the cancel button */
+/* Extra styles for the cancel button*/
 .cancelbtn {
     width: auto;
     padding: 10px 18px;
