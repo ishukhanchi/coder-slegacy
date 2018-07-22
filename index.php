@@ -461,17 +461,17 @@ span.psw {
              
             <div class="col-md-4 text-left">
                <p style="font-size:30px">Kritika Sharma</p>
-                <p style="font-size:25px" align=left>+91-9458410171</p>
+                <p style="font-size:25px" align=left>+91-XXXXXXXXXX</p>
                </div>
               
             <div class="col-md-4 text-center">
                 <p style="font-size:30px">Ishu Khanchi</p>
-                <p style="font-size:25px" align=center>+91-8171651935</p>
+                <p style="font-size:25px" align=center>+91-XXXXXXXXXX</p>
             </div>
                 
                 <div class="col-md-4  text-right">
                 <p style="font-size:30px">Srima Pal</p>
-                <p style="font-size:25px" align=right>+91-9758836116</p>
+                <p style="font-size:25px" align=right>+91-XXXXXXXXXX</p>
             </div>
              </div>
         </div>
