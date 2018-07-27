@@ -8,13 +8,13 @@ It is an online coding event allowing participants to code in C,C++,JAVA.
 ## How to access the folder in xampp
 
 * Windows<br>
-1. Download the repository [https://github.com/ishukhanchi/QuizApp/](https://github.com/ishukhanchi/QuizApp/)
+1. Download the repository [https://github.com/ishukhanchi/coder-slegacy/](https://github.com/ishukhanchi/coder-slegacy/)
 1. Extract the folder in C:/xampp/htdocs/
 1. Open localhost/QuizApp/index.html to run the file in browser.
 1. To make any changes open the folder in any text-editor.Eg:Sublime-Text,Brackets,Notepad++...
 
 * Linux<br>
-1. Download the repository [https://github.com/ishukhanchi/QuizApp/](https://github.com/ishukhanchi/QuizApp/)
+1. Download the repository [https://github.com/ishukhanchi/coder-slegacy/](https://github.com/ishukhanchi/coder-slegacy/)
 1. Extract the folder in /etc/var/www
 1. Open localhost/QuizApp/index.html to run the file in browser.
 1. To make any changes open the folder in any text-editor.Eg:Sublime-Text...
